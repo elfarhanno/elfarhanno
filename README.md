@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @elfarhanno
+- 👋 Hi, I’m Farhan
 - 👀 I’m interested in fitness, music and picking up coding as a skillset, started mid-2022
-- 🌱 I’m currently learning Javascript & Solidity
+- 🌱 I’m currently learning HTML, CSS, Javascript & Solidity
 - 💞️ I’m looking to collaborate on working on a physiotherapy diagnosis app
 - 📫 How to reach me: elfarhanno@gmail.com
 
