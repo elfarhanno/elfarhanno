@@ -1,1 +1,1 @@
-# Rocket Academy Coding Basics: Beat That!
+Just started programming. Still lots to learn
